@@ -1,0 +1,5 @@
+#WidgetNetwork{
+border-image: url(:/image/2.jpg);
+}
+
+#WidgetSerial {\nborder-image: url(:/image/2.jpg);\nbackground-color:transparent\n}
